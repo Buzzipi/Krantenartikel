@@ -1,0 +1,39 @@
+/* TAGS */
+body{
+    background-color: #a8d8e6;
+}
+
+img{
+    margin: 15px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+
+
+
+/* ID'S */
+#main_div{
+    padding: 50px;
+}
+
+#krant_titel{
+    font-weight: 1000;
+}
+
+#img_1{
+    float: left;
+    margin-left: 0px;
+}
+
+#img_2{
+    float: right;
+    margin-right: 0px;
+}
+
+#img_3{
+    float: left;
+    margin-left: 0px;
+}
